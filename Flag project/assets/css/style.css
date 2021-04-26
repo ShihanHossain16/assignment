@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+}
+.green{
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    margin: 50px auto;
+    overflow: hidden;
+}
+.red{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 23px auto 0px;
+    
+}
+.white{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto;
+    overflow: hidden;
+    border: 1px solid black;
+}
+.red{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 23px auto 0px;
+
+}
+.germany{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    margin: 50px auto;
+    border-top: 100px solid black;
+    border-bottom:100px solid yellow;
+}
+.argentina{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    border-top:100px solid skyblue; 
+    border-bottom:100px solid skyblue; 
+    margin: 50px auto;
+    text-align:center;
+  
+}
+.argentina img{
+    width: 100px;
+}
+
+
+.france {
+    width: 160px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto 0px;
+    border-left: 160px solid blue;
+    border-right: 160px solid red;
+}
+.india {
+    width: 500px;
+    height: 300px;
+    background-color: black;
+    margin: 50px auto 0px;
+    
+}
+.mexico{
+
+    width: 160px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto 0px;
+    border-left: 160px solid green;
+    border-right: 160px solid red;
+}
+.mexico img{
+    width: 100px;
+    margin: 90px auto ;
+    margin-left: 20px;
+    overflow: hidden;
+}
+.spain{
+    width: 500px;
+    height: 200px;
+    background-color: yellow;
+    border-top:90px solid red; 
+    border-bottom:90px solid red; 
+    margin: 50px auto;
+    text-align:center;
+}
+.india{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    border-top:100px solid orange; 
+    border-bottom:100px solid green; 
+    margin: 50px auto;
+    text-align:center;
+  
+}
+.romania{
+    width: 160px;
+    height: 300px;
+    background-color: yellow;
+    margin: 50px auto 0px;
+    border-left: 160px solid navy;
+    border-right: 160px solid red;
+}
+.ireland{
+    width: 160px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto 0px;
+    border-left: 160px solid green;
+    border-right: 160px solid orange; 
+}
+
